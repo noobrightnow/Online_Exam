@@ -165,6 +165,7 @@ namespace Online_Exam.Controllers
             var data = db.Questions;
             return Ok(data);
         }// get all questions
+
     }
 
 }
